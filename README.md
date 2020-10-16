@@ -32,8 +32,6 @@ Some demos do not require some submodules, in these cases, they are still provid
 | OS        | No         |
 | SW        | No         |
 
-FIXME: remove any submodules that are not present in the root repo.
-
 This demo was moved into this repository during 2020.1 updates. Its history prior to these updates can be found in its old repository, linked below:
 * https://github.com/Digilent/Arty-S7-25-GPIO/
 
