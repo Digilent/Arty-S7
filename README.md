@@ -12,7 +12,7 @@ All the switches are tied to their corresponding led. Every time a switch is tog
 
 The two tri-color LEDs will cycle colors with no interruption from other I/O. 
 
- On startup, the Arty S7 will transmit “ARTY GPIO/UART DEMO!”. Whenever a button is pressed, Arty S7 transmits “Button press detected!”.
+ On startup, the Arty S7 will transmit over UART “ARTY GPIO/UART DEMO!”. Whenever a button is pressed, Arty S7 transmits “Button press detected!”. UART baudrate is 9600.
 
 For more information on the Arty S7-50 GPIO Demo, including setup instructions, visit its [Demo Page](https://reference.digilentinc.com/reference/programmable-logic/arty-s7/demos/gpio) on the Digilent Wiki.
 
